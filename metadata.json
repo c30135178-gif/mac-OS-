@@ -1,0 +1,8 @@
+{
+  "name": "macOS Web Simulator",
+  "description": "A high-fidelity macOS simulation built with React and Tailwind CSS, featuring a multi-window system, virtual file system, authentication, and integrated apps like Safari, Notes, and Terminal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
